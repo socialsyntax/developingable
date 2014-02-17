@@ -1,0 +1,27 @@
+
+polls/models.py,133
+class Poll(7,93
+    def __unicode__(11,222
+    def was_published_recently(14,279
+class Choice(21,576
+    def __unicode__(26,734
+
+polls/admin.py,50
+class ChoiceInline(9,120
+class PollAdmin(13,195
+
+manage.py,0
+
+developingable/wsgi.py,0
+
+developingable/settings.py,0
+
+developingable/__init__.py,0
+
+developingable/urls.py,0
+
+polls/views.py,0
+
+polls/__init__.py,0
+
+polls/tests.py,0
